@@ -1,0 +1,60 @@
+@import url(../styles/contacto.css);
+
+.navtop{background-color: #1B2631;
+
+}
+.navbaritems:hover a{ filter:blur(2px);
+
+}
+ a{ display: inline-block;
+    color:#fff !important;
+    box-shadow: 0 3px 5px 0 rgba(255, 255, 255, .4);
+    transition: .2s !important;
+    background-color: #1B2631 !important
+    }
+
+a:hover{ transform:translateY(-5px) scale(1.05);
+    box-shadow: 0 3px 5px 0 rgba(255, 255, 255, .6);
+    filter:none !important;
+    color: #fff !important;
+    background-color: #1B2631 !important
+}
+
+
+.facebook:hover{
+    background:#3b5998 !important ;
+}
+.instagram:hover{
+background:#e4485f !important;
+}
+.twitter:hover{
+    background: #00acee !important;
+}
+
+.balcarce{height: 100vh;
+    background-image: url(../resources/imagenes/Balcarce-intro.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    }
+
+
+ .turismo p{ font-size: 0.9rem;
+
+ }
+.pueblos{position: relative;
+
+}
+ .link{ 
+    position: absolute; 
+    top: 80%; 
+    left: 40%;
+
+ }
+ .caratula{ background-image: url(../resources/imagenes/prueba\ corte.jpg);
+    background-repeat: no-repeat;
+    background-size: conver;
+    height: 23rem;
+
+ }
+
+ 

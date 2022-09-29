@@ -1,0 +1,31 @@
+.contacto{background-image: url(../resources/balcarcewb.jpeg);
+    
+
+}
+form{background-color:#003566;
+    border-radius: 1rem;
+    color: #fff;
+
+
+}
+
+
+
+textarea{ min-height: 8rem !important;
+    max-height: 16rem;
+
+}
+#submit{color:#fff;
+    box-shadow: 0 3px 5px 0 rgba(255, 255, 255, .4);
+    transition: .2s;
+    background-color: #1B2631;
+    border:none;
+    padding: 0.7rem;
+
+}
+#submit:hover{ transform:translateY(-5px) scale(1.05);
+    box-shadow: 0 3px 5px 0 rgba(255, 255, 255, .6);
+    color: #fff;
+    background-color: #1B2631;
+
+}

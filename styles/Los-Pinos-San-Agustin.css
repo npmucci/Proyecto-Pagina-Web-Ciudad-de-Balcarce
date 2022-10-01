@@ -1,16 +1,20 @@
-h1{ color: #C6A40D;
-    font-size: 2.7rem !important;
-   
+.caratula{ background-image: url(../resources/imagenes/sierra.jpg);
+    background-size: cover;
+    height: 30vh;
+
 
 }
+.lospinos{ color:#fff ;
+    font-size: 2.3rem !important;
+}
 
-.caratula{ background-color:#1B2631;
+.linea1{ background-color:#C6A40D;
     opacity: 100%;
     width: 20rem;
     margin: auto;
 
 }
-.linea{height: 1rem;
+.linea2{height: 1rem;
     background-color: #1B2631;
     opacity: 100%;
 

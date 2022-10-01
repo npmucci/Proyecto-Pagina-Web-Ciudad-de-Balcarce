@@ -1,4 +1,5 @@
 @import url(../styles/contacto.css);
+@import url(../styles/Los-Pinos-San-Agustin.css);
 
 .navtop{background-color: #1B2631;
 
@@ -31,10 +32,9 @@ background:#e4485f !important;
     background: #00acee !important;
 }
 
-.balcarce{height: 100vh;
-    background-image: url(../resources/imagenes/Balcarce-intro.png);
-    background-repeat:no-repeat;
+.balcarce{background-image: url(../resources/imagenes/Balcarce-intro.png);
     background-size: cover;
+    height: 100vh;
     }
 
 
@@ -50,11 +50,6 @@ background:#e4485f !important;
     left: 40%;
 
  }
- .caratula{ background-image: url(../resources/imagenes/prueba\ corte.jpg);
-    background-repeat: no-repeat;
-    background-size: conver;
-    height: 23rem;
 
- }
  
  

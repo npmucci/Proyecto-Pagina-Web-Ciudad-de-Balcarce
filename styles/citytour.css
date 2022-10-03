@@ -1,0 +1,12 @@
+.citytour{background-image: url(../resources/imagenes/portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+
+}
+.lineac{background-color:#5E9069;
+    opacity: 100%;
+    width: 8rem;
+    margin: auto;
+
+}

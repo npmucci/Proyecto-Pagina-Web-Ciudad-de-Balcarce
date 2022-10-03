@@ -1,12 +1,23 @@
-.citytour{background-image: url(../resources/imagenes/portada.jpg);
+.citytour{background-image: url(../resources/imagenes/citytour/portada.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 40vh;
 
 }
-.lineac{background-color:#5E9069;
+.lineac{background-color:#C6A40D;
     opacity: 100%;
     width: 8rem;
+    margin: auto;
+
+}
+.plaza,.cerro,.autodromo{margin-top: 4rem !important;
+    margin-bottom: 10rem !important;
+    
+
+}
+.city{ background-color: black;
+    opacity: 100%;
+    width: 80vw;
     margin: auto;
 
 }

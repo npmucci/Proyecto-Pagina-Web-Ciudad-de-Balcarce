@@ -1,0 +1,18 @@
+.caratula-balcarce{ background-image: url(../resources/imagenes/balcarce/portada.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+
+}
+.titulo{
+    color:#fff ;
+    font-size: 3rem !important;
+}
+.linea-titulo{ background-color:#C6A40D;
+    opacity: 100%;
+    width: 20rem;
+    margin: auto;
+
+}
+
+

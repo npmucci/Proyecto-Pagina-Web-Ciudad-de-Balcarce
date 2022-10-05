@@ -1,4 +1,4 @@
-.caratula-balcarce{ background-image: url(../resources/imagenes/balcarce/portada.jpg);
+.caratula-balcarce{ background-image: url(../resources/imagenes/balcarce/paisaje.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 40vh;
@@ -14,5 +14,14 @@
     margin: auto;
 
 }
+.balcarce{background-color: black;
+    opacity: 100%;
+
+}
+.mapa{ margin-top: 2rem;
+    margin-left: 5rem;
+
+}
+
 
 

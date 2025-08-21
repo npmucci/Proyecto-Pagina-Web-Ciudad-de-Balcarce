@@ -9,7 +9,7 @@
 
 
 ## Secciones
-* - **Inicio:** Presentación de la ciudad y su entorno.  
+- **Inicio:** Presentación de la ciudad y su entorno.  
 - **Qué Hacer:** Información sobre actividades turísticas destacadas.  
 - **Cómo Llegar:** Ubicación de la ciudad y mapas interactivos.  
 - **Contacto:** Formulario de contacto y enlaces a redes sociales. 

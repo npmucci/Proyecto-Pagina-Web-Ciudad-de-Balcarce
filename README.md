@@ -9,13 +9,10 @@
 
 
 ## Secciones
-
-
-
-* Inicio: Presentación de la ciudad y su entorno
-* Qué Hacer: Información sobre actividades turísticas destacadas.
-* Cómo Llegar: Ubicación de la ciudad y mapas interactivos.
-* Contacto: Formulario de contacto y enlaces a redes sociales.
+* - **Inicio:** Presentación de la ciudad y su entorno.  
+- **Qué Hacer:** Información sobre actividades turísticas destacadas.  
+- **Cómo Llegar:** Ubicación de la ciudad y mapas interactivos.  
+- **Contacto:** Formulario de contacto y enlaces a redes sociales. 
 
 
 ## 🛠 Tecnologías utilizadas
@@ -24,19 +21,14 @@
 * Bootstrap 
 * FontAwesome
 * Google Maps Embed
-
-
+* 
 
 ## 🌟 Características principales
 
 * Navegación clara y responsive con menú de hamburguesa.
-
 * Secciones de interés turístico con imágenes y descripciones.
-
 * Enlaces a sitios externos como el Museo J.M. Fangio.
-
 * Mapas interactivos y fotografías de los principales atractivos.
-
 * Footer con redes sociales (Facebook, Instagram, Twitter) y datos de contacto.
 
 ## 📂 Estructura del proyecto

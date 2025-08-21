@@ -35,20 +35,19 @@ Proyecto-Pagina-Web-Ciudad-de-Balcarce/
 │
 ├─ index.html
 ├─ styles/
-│   └─ style.css
+│ └─ style.css
 ├─ resources/
-│   ├─ imagenes/
-│   │   ├─ logo/
-│   │   └─ cards/
-│   ├─ fontawesome-free-6.2.0-web/
-│   └─ bootstrap-5.0.2-dist/
+│ ├─ imagenes/
+│ │ ├─ logo/
+│ │ └─ cards/
+│ ├─ fontawesome-free-6.2.0-web/
+│ └─ bootstrap-5.0.2-dist/
 └─ pages/
-    ├─ contacto.html
-    ├─ Balcarce.html
-    ├─ Laguna.html
-    ├─ CityTour.html
-    └─ Los-Pinos-San-Agustin.html
-
+├─ contacto.html
+├─ Balcarce.html
+├─ Laguna.html
+├─ CityTour.html
+└─ Los-Pinos-San-Agustin.html
 
 🌟 Características principales
 
